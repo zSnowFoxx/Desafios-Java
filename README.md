@@ -11,4 +11,4 @@
 
 *Criptografia* - Um programa onde o usuário digita um texto, informa se quer criptografar ou descriptografar e o programa retorna o texto criptografado ou descriptografado.
 
--- Programas feitos no Apache NetBeans IDE 12.3
+-- feitos no Apache NetBeans IDE 12.3
