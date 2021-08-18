@@ -1,4 +1,6 @@
 # Desafios-Java
+-- Programas sem interface
+
 *calc2num* - Uma calcúladora sem interface que lê dois números, a operação e dá o resultado. 
 
 *NumeroPrimo* - Um programa que lê um número e retorna se ele é primo ou não.
