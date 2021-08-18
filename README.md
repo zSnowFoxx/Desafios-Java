@@ -7,4 +7,6 @@
 
 *CalcularIdade* - Um programa que lê o nome do usuário e sua data de nascimento (no formato dd-mm-aaaa) e retorna sua idade.
 
+*Criptografia* - Um programa onde o usuário digita um texto, informa se quer criptografar ou descriptografar e o programa retorna o texto criptografado ou descriptografado.
+
 -- Programas feitos no Apache NetBeans IDE 12.3
